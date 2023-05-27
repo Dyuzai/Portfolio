@@ -1,0 +1,8 @@
+C:\Users\Vitor Mota\source\repos\ConversorDeTemperatura(sem interface)\ConversorDeTemperatura(sem interface)\bin\Debug\ConversorDeTemperatura(sem interface).exe.config
+C:\Users\Vitor Mota\source\repos\ConversorDeTemperatura(sem interface)\ConversorDeTemperatura(sem interface)\bin\Debug\ConversorDeTemperatura(sem interface).exe
+C:\Users\Vitor Mota\source\repos\ConversorDeTemperatura(sem interface)\ConversorDeTemperatura(sem interface)\bin\Debug\ConversorDeTemperatura(sem interface).pdb
+C:\Users\Vitor Mota\source\repos\ConversorDeTemperatura(sem interface)\ConversorDeTemperatura(sem interface)\obj\Debug\ConversorDeTemperatura(sem interface).csproj.AssemblyReference.cache
+C:\Users\Vitor Mota\source\repos\ConversorDeTemperatura(sem interface)\ConversorDeTemperatura(sem interface)\obj\Debug\ConversorDeTemperatura(sem interface).csproj.SuggestedBindingRedirects.cache
+C:\Users\Vitor Mota\source\repos\ConversorDeTemperatura(sem interface)\ConversorDeTemperatura(sem interface)\obj\Debug\ConversorDeTemperatura(sem interface).csproj.CoreCompileInputs.cache
+C:\Users\Vitor Mota\source\repos\ConversorDeTemperatura(sem interface)\ConversorDeTemperatura(sem interface)\obj\Debug\ConversorDeTemperatura(sem interface).exe
+C:\Users\Vitor Mota\source\repos\ConversorDeTemperatura(sem interface)\ConversorDeTemperatura(sem interface)\obj\Debug\ConversorDeTemperatura(sem interface).pdb

@@ -1,0 +1,8 @@
+C:\Users\Vitor Mota\source\repos\LoginConsoleMelhorado\LoginConsoleMelhorado\bin\Debug\LoginConsoleMelhorado.exe.config
+C:\Users\Vitor Mota\source\repos\LoginConsoleMelhorado\LoginConsoleMelhorado\bin\Debug\LoginConsoleMelhorado.exe
+C:\Users\Vitor Mota\source\repos\LoginConsoleMelhorado\LoginConsoleMelhorado\bin\Debug\LoginConsoleMelhorado.pdb
+C:\Users\Vitor Mota\source\repos\LoginConsoleMelhorado\LoginConsoleMelhorado\obj\Debug\LoginConsoleMelhorado.csproj.AssemblyReference.cache
+C:\Users\Vitor Mota\source\repos\LoginConsoleMelhorado\LoginConsoleMelhorado\obj\Debug\LoginConsoleMelhorado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vitor Mota\source\repos\LoginConsoleMelhorado\LoginConsoleMelhorado\obj\Debug\LoginConsoleMelhorado.csproj.CoreCompileInputs.cache
+C:\Users\Vitor Mota\source\repos\LoginConsoleMelhorado\LoginConsoleMelhorado\obj\Debug\LoginConsoleMelhorado.exe
+C:\Users\Vitor Mota\source\repos\LoginConsoleMelhorado\LoginConsoleMelhorado\obj\Debug\LoginConsoleMelhorado.pdb
